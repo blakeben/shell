@@ -21,20 +21,20 @@ This project is a custom implementation of a shell in C, developed as part of th
 Clone the repository and navigate to the shell directory:
 
 ```
-git clone [Your Personal Repo URL]
+git clone https://github.com/blakeben/shell.git
 cd shell
 ```
 
-Compile the shell using gcc:
+Compile the shell using make:
 
 ```
-gcc -o myshell shell.c
+make
 ```
 
 Run the shell:
 
 ```
-./myshell
+./tsh
 ```
 
 ## Acknowledgments
